@@ -17,3 +17,6 @@ add , commit , push를 이용
     $ git commit -m "[설명]"
     $ git push
     ```
+
+---
+## 과제 : git 생성부터, clone, (add, commit, push)*10번, repository 자체 삭제까지 - 5 회 이상 실행해보기
